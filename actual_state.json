@@ -1,4 +1,13 @@
 {
-    "program_list": [], 
-    "version": "0.1"
+    "program_list": [
+        {
+            "program": "playsound.exe",
+            "program_path": "",
+            "update_date": "",
+            "enable": true,
+            "version": "1.0"
+        }
+    ],
+    "version": "0.1",
+    "enable": true
 }
