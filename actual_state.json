@@ -2,8 +2,8 @@
     "program_list": [
         {
             "program": "playsound.exe",
-            "program_path": "",
-            "update_date": "",
+            "program_path": "https://raw.githubusercontent.com/RTEngenharia-Admin/PublicPrograms/main/playsound.exe",
+            "update_date": "04/",
             "enable": true,
             "version": "1.0"
         }
