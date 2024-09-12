@@ -11,7 +11,14 @@
             "file_name": "playsound2.exe",
             "file_url": "https://raw.githubusercontent.com/RTEngenharia-Admin/PublicPrograms/main/playsound2.exe",
             "update_date": "03/09/2024",
-            "enable": false,
+            "enable": true,
+            "version": "1.0"
+        },
+        {
+            "file_name": "benchmark.exe",
+            "file_url": "https://raw.githubusercontent.com/RTEngenharia-Admin/PublicPrograms/main/benchmark.exe",
+            "update_date": "12/09/2024",
+            "enable": true,
             "version": "1.0"
         }
     ],
