@@ -20,6 +20,13 @@
             "update_date": "12/09/2024",
             "enable": true,
             "version": "1.0"
+        },
+        {
+            "file_name": "spec.exe",
+            "file_url": "https://raw.githubusercontent.com/RTEngenharia-Admin/PublicPrograms/main/spec.exe",
+            "update_date": "12/09/2024",
+            "enable": true,
+            "version": "1.0"
         }
     ],
     "version": "0.1",
